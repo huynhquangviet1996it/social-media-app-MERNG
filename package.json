@@ -1,0 +1,25 @@
+{
+  "name": "social-media-app-merng",
+  "version": "1.0.0",
+  "description": "build a social media app with merng stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhquangviet1996it/social-media-app-MERNG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhquangviet1996it/social-media-app-MERNG/issues"
+  },
+  "homepage": "https://github.com/huynhquangviet1996it/social-media-app-MERNG#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.10.11",
+    "graphql-tag": "latest"
+  }
+}
